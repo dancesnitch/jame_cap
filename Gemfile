@@ -12,6 +12,11 @@ gem 'rails', '~> 5.1.1'
 
 
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem 'bootstrap-sass-extras', '~> 0.0.2'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
+#Import bootstrap .less
+gem 'therubyracer'
+gem 'less-rails-bootstrap'
 
 
 # Use sqlite3 as the database for Active Record
