@@ -1,0 +1,17 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.navbar-nav > img {
+	display: block;
+	height: 55px;
+	width: inherit;
+	margin: auto;
+}
+
+.device-mockup.iphone6_plus .portrait> .device> .screen, .device-mockup.iphone6_plus> .device> .screen {
+    top: 11.58%;
+    bottom: 11.58%;
+    left: 5.97%;
+    right: 5.97%;
+}

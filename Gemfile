@@ -17,6 +17,9 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 #Import bootstrap .less
 gem 'therubyracer'
 gem 'less-rails-bootstrap'
+gem 'sprockets', '3.6.3'
+gem 'less', '~> 2.6'
+
 
 
 # Use sqlite3 as the database for Active Record

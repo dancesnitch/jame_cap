@@ -15,5 +15,6 @@
 //= require turbolinks
 //= require rails-ujs
 //= require_tree .
+//= require new-age
 //= require bootstrap-sprockets
 
