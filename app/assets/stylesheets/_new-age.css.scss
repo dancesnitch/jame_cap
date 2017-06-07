@@ -225,23 +225,24 @@ section {
 section h2 {
   font-size: 50px;
 }
-section.download {
+section.about {
   padding: 150px 0;
   position: relative;
 }
-section.download h2 {
+section.about h2 {
   margin-top: 0;
   font-size: 50px;
 }
-section.download .badges .badge-link {
+section.about .badges .badge-link {
   display: block;
   margin-bottom: 25px;
 }
-section.download .badges .badge-link:last-child {
+section.about .badges .badge-link:last-child {
   margin-bottom: 0;
 }
-section.download .badges .badge-link img {
+section.about .badges .badge-link img {
   height: 60px;
+
 }
 @media (min-width: 768px) {
   section.download .badges .badge-link {
@@ -394,9 +395,9 @@ footer ul li a.active {
   text-decoration: none;
 }
 .bg-primary {
-  background: #fdcc52;
-  background: -webkit-linear-gradient(#fdcc52, #fdc539);
-  background: linear-gradient(#fdcc52, #fdc539);
+  background: #585756;
+  background: -webkit-linear-gradient(#585756, #3a5795);
+  background: linear-gradient(#585756, #3a5795);
 }
 .text-primary {
   color: #fdcc52;
@@ -415,8 +416,8 @@ footer ul li a.active {
 .btn-outline:active,
 .btn-outline.active {
   color: white;
-  background-color: #fdcc52;
-  border-color: #fdcc52;
+  background-color: #585756;
+  border-color: #585756;
 }
 .btn {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';

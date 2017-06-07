@@ -19,6 +19,8 @@ gem 'therubyracer'
 gem 'less-rails-bootstrap'
 gem 'sprockets', '3.6.3'
 gem 'less', '~> 2.6'
+gem 'jquery-easing-rails'
+
 
 
 
