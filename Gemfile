@@ -21,6 +21,8 @@ gem 'sprockets', '3.6.3'
 gem 'less', '~> 2.6'
 gem 'jquery-easing-rails'
 
+gem 'aws-sdk', '~> 2'
+
 
 
 
