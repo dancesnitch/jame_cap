@@ -4,6 +4,7 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+
 .heading-font {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
@@ -152,11 +153,11 @@ header {
   width: 100%;
   min-height: auto;
   overflow-y: hidden;
-  background: url("../assets/bg-pattern.png"), #032b6d;
+  background: url("../assets/bg-pattern.png"), #3a5795;
   /* fallback for old browsers */
-  background: url("../assets/bg-pattern.png"), -webkit-linear-gradient(to left, #fff , #032b6d);
+  background: url("../assets/bg-pattern.png"), -webkit-linear-gradient(to left, #585756 , #3a5795, #9BABFF);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: url("../assets/bg-pattern.png"), linear-gradient(to left, #fff, #032b6d);
+  background: url("../assets/bg-pattern.png"), linear-gradient(to left, #585756, #3a5795, #9BABFF);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: white;
 }
@@ -396,8 +397,8 @@ footer ul li a.active {
 }
 .bg-primary {
   background: #585756;
-  background: -webkit-linear-gradient(#585756, #3a5795);
-  background: linear-gradient(#585756, #3a5795);
+  background: -webkit-linear-gradient(#3a5795, #585756);
+  background: linear-gradient(#3a5795, #585756);
 }
 .text-primary {
   color: #fdcc52;
