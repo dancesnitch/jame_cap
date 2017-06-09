@@ -1,10 +1,10 @@
 assets/application-40b2de8873494334b9e72b4cbafdc259c1707c983656abfce0146e0dc4692c15.css linguist-vendored=true
 assets/application-40b2de8873494334b9e72b4cbafdc259c1707c983656abfce0146e0dc4692c15.css.gz liguist-vendored=true
-assets/stylesheets/_device-mockups.css.scss liguist-vendored=true
-assets/stylesheets/_device-mockups.min.css.scss liguist-vendored=true
-assets/stylesheets/_new-age.css.scss liguist-vendored=true
-assets/stylesheets/_new-age.min.css.scss liguist-vendored=true
-assets/stylesheets/application.css.scss liguist-vendored=true
+app/assets/stylesheets/_device-mockups.css.scss liguist-vendored=true
+app/assets/stylesheets/_device-mockups.min.css.scss liguist-vendored=true
+app/assets/stylesheets/_new-age.css.scss liguist-vendored=true
+app/assets/stylesheets/_new-age.min.css.scss liguist-vendored=true
+app/assets/stylesheets/application.css.scss liguist-vendored=true
 
 
 
