@@ -15,3 +15,8 @@ app/assets/stylesheets/_new-age.min.css.scss linguist-vendored=true
 
 public/assets/application-70885a5b25e5daf63d95666b4f3eff6116e4c77b04033d58e71234e50f5c6ebf.js liguist-vendored=true
 public/assets/application-70885a5b25e5daf63d95666b4f3eff6116e4c77b04033d58e71234e50f5c6ebf.js.gz liguist-vendored=true
+app/assets/javascripts/cable.js liguist-vendored=true
+app/assets/config/manifest.js liguist-vendored=true
+app/assets/javascripts/_new-age.js liguist-vendored=true
+app/assets/javascripts/_new-age.min.js liguist-vendored=true
+app/assets/javascripts/application.js liguist-vendored=true
