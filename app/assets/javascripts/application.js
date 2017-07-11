@@ -18,4 +18,5 @@
 //= require_tree .
 //= require_self
 //= require bootstrap-sprockets
+//= require _new-age
 
