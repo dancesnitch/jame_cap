@@ -22,6 +22,8 @@ gem 'less', '~> 2.6'
 gem 'jquery-easing-rails'
 gem 'aws-sdk', '~> 2'
 gem 'twitter-bootstrap-rails', '~> 4.0'
+gem 'rails_12factor', group: :production
+
 
 
 
