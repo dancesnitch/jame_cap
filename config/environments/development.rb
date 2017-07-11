@@ -14,6 +14,9 @@ Rails.application.configure do
 
   config.assets.compile = true
 
+  config.assets.raise_production_errors = true
+
+
   # Enable/disable caching. By default caching is disabled.
   if Rails.root.join('tmp/caching-dev.txt').exist?
     config.action_controller.perform_caching = true
