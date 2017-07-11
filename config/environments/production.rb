@@ -38,8 +38,6 @@
     'full_control.css'
   ]
 
-  config.assets.compress = true
-
   # Enable serving of images, stylesheets, and JavaScripts from an asset server.
   # config.action_controller.asset_host = 'http://assets.example.com'
 
